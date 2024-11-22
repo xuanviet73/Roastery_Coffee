@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="relative">
       <div className="flex flex-col items-center justify-center mb-5 md:mb-10">
         <video
-          className="w-full h-[90vh] object-cover"
+          className="w-full h-[100vh] object-cover"
           src="/video.mp4"
           autoPlay
           loop
